@@ -1,63 +1,61 @@
 # Brian Walter
 
-Computer Science student focused on building real systems and gaining practical experience in software development.
+Computer Science student building real systems with focus on software engineering fundamentals.
 
-## Highlight Project
+---
 
-### Stealth AI Game
+## Featured Projects
 
-A Unity project focused on NPC behavior systems and real-time decision logic.
+### EcoCity
 
-## Demo
+A Unity city-management game focused on balancing economy, well-being, and pollution through player decisions.
+
+#### Demo
+
+![EcoCity Demo](https://raw.githubusercontent.com/Brian-Walter/brian-assets/main/Docs/ecocity-demo.gif)
+
+Key systems:
+- Turn-based gameplay loop
+- Resource management (money, well-being, pollution)
+- Property system with player decisions and consequences
+- City event system with dynamic impact
+- Score calculation and multiple endings
+
+Project:
+https://github.com/2026-1-MCC1/Projeto10
+
+---
+
+### Stealth-3D
+
+A Unity project implementing NPC perception, decision-making, and state-driven behavior.
+
+#### Demo
 
 ![Stealth AI Demo](https://raw.githubusercontent.com/Brian-Walter/Stealth-3D/main/Documentação/demo.gif)
 
-## How It Works
+Key systems:
+- Field-of-view detection
+- Raycast line-of-sight validation
+- Finite State Machine (Patrol → Investigate → Alert)
+- NavMesh pathfinding
 
-* Two-step perception system:
+Project:
+https://github.com/Brian-Walter/Stealth-3D
 
-  * Broad phase: distance and field-of-view check (low cost)
-  * Narrow phase: raycast line-of-sight validation (high accuracy)
-* Finite State Machine controlling NPC behavior:
-
-  * Patrol → Investigate → Alert
-* NavMesh used for dynamic pathfinding and movement
-
-## Technical Details
-
-* Modular C# architecture (EnemyVision, EnemyDetection, EnemyPatrol)
-* Event-driven state transitions instead of constant polling
-* Reduced unnecessary physics checks by limiting raycasts
-* Separation of concerns between perception, decision, and movement systems
+---
 
 ## Technical Skills
 
-* C#
-* Unity
-* Object-Oriented Programming
-* Data structures and algorithms (foundational level)
+- C#
+- Unity
+- Object-Oriented Programming
+- Data structures and algorithms (foundational level)
+
+---
 
 ## Current Focus
 
-* Strengthening software engineering fundamentals
-* Writing clean, maintainable, and scalable code
-* Deepening understanding of data structures and algorithms
-
-## Additional Project
-
-### EcoCity (Academic Project)
-
-A city simulation game developed as part of a university project.
-
-Focus:
-
-* Resource management (economy, happiness, pollution)
-* Turn-based decision system
-* Game design and system balancing
-
-Link:
-https://github.com/2026-1-MCC1/Projeto10
-
-## Contact
-
-* GitHub: https://github.com/Brian-Walter
+- Strengthening software engineering fundamentals
+- Writing clean, maintainable, and scalable code
+- Expanding beyond game development into general software engineering

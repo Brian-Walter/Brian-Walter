@@ -27,4 +27,4 @@ A Unity project demonstrating:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Brianwalter-q
+- GitHub: https://github.com/Brian-Walter

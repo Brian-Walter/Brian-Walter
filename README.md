@@ -1,16 +1,30 @@
-## Hi there 👋
+# Brian Walter
 
-<!--
-**Brian-Walter/Brian-Walter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building real systems and gaining practical experience in software development.
 
-Here are some ideas to get you started:
+## 🚀 Highlight Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stealth AI Game
+A Unity project demonstrating:
+- NPC perception system (FOV + raycasting)
+- Finite State Machine (Patrol / Investigate / Alert)
+- NavMesh pathfinding
+
+➡️ https://github.com/Brianwalter-q/Stealth-3D
+
+## 🧠 Technical Skills
+
+- C#
+- Unity
+- Object-Oriented Programming
+- Basic data structures and algorithms
+
+## 📈 Current Focus
+
+- Improving software engineering fundamentals
+- Writing clean and maintainable code
+- Learning data structures and algorithms
+
+## 📫 Contact
+
+- GitHub: https://github.com/Brianwalter-q

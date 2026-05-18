@@ -10,7 +10,7 @@ A Unity project focused on NPC behavior systems and real-time decision logic.
 
 ## Demo
 
-(Add a GIF here showing NPC detecting the player)
+![Demo](Documentação/demo.gif)
 
 ## How It Works
 

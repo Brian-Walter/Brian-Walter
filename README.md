@@ -10,7 +10,7 @@ A Unity project focused on NPC behavior systems and real-time decision logic.
 
 ## Demo
 
-![Demo](Documentação/demo.gif)
+![Stealth AI Demo](https://raw.githubusercontent.com/Brian-Walter/Stealth-3D/main/Documentação/demo.gif)
 
 ## How It Works
 

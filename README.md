@@ -45,3 +45,16 @@ A Unity project focused on NPC behavior systems.
 ## Contact
 
 * GitHub: https://github.com/Brian-Walter
+
+## Additional Project
+
+### EcoCity (Academic Project)
+
+A city simulation game developed as part of a university project.
+
+Focus:
+- Resource management (economy, happiness, pollution)
+- Turn-based decision system
+- Game design and system balancing
+
+ https://github.com/2026-1-MCC1/Projeto10

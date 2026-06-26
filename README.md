@@ -67,8 +67,38 @@ A Unity project focused on NPC behavior systems and real-time AI decision logic.
 
 ---
 
+### WA Transport
+
+A modern and responsive website developed for a transportation company, focused on performance, user experience, accessibility, and maintainable code.
+
+#### Live Website
+
+🌐 https://www.watransport.com.br/
+
+#### Technologies
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+
+#### Features
+
+- Responsive design
+- Modern user interface
+- SEO optimization
+- Contact form integration
+- Performance optimization
+- Production deployment
+
+---
+
 ## Current Focus
 
+- Full Stack Development
+- Software Engineering
 - Strengthening software engineering fundamentals  
 - Writing clean, maintainable, and scalable code  
 - Deepening understanding of data structures and algorithms  

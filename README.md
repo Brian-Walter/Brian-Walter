@@ -64,9 +64,8 @@ Projeto em Unity focado em sistemas de percepção e decisão de NPCs: máquina 
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-three-chi-18.vercel.app/api?username=Brian-Walter&show_icons=true&theme=default&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats-three-chi-18.vercel.app/api/top-langs/?username=Brian-Walter&layout=compact&hide_border=true)
-
+![Estatísticas do GitHub](https://github-readme-stats-three-chi-18.vercel.app/api?username=Brian-Walter&show_icons=true&theme=default&hide_border=true&v=1)
+![Linguagens mais usadas](https://github-readme-stats-three-chi-18.vercel.app/api/top-langs/?username=Brian-Walter&layout=compact&hide_border=true&v=1)
 </div>
 
 ## Estudando atualmente

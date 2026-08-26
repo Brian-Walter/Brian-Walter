@@ -44,7 +44,7 @@ Projeto Interdisciplinar da FECAP: plataforma de planejamento e precificação d
 
 `Node.js` `Express` `MySQL` `React`
 
-[Repositório](#)
+[Repositório](https://github.com/2026-2-MCC2/Projeto8)
 
 ### EcoCity
 Jogo de tabuleiro 3D inspirado em Monopoly, desenvolvido em Unity, com mecânicas sistêmicas de dinheiro, bem-estar e poluição.
@@ -76,4 +76,4 @@ Roadmap próprio de 24 meses rumo a uma primeira posição em cybersecurity, com
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-walter-b3688b40b/)
-`[e-mail]`
+`brianwalter_@hotmail.com`

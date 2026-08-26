@@ -5,7 +5,6 @@
 Estudante de Ciência da Computação (FECAP) e desenvolvedor full-stack freelance, em transição para cybersecurity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-walter-b3688b40b/)
-[![GitHub followers](https://img.shields.io/github/followers/Brian-Walter?style=flat-square&label=Followers&color=333)](https://github.com/Brian-Walter)
 
 </div>
 
@@ -20,15 +19,7 @@ Estudante de Ciência da Computação (FECAP) e desenvolvedor full-stack freelan
 
 ## Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,supabase,prisma,vercel,cs,unity,linux)](https://skillicons.dev)
 
 ## Projetos em destaque
 
@@ -44,7 +35,7 @@ Projeto Interdisciplinar da FECAP: plataforma de planejamento e precificação d
 
 `Node.js` `Express` `MySQL` `React`
 
-[Repositório](https://github.com/2026-2-MCC2/Projeto8)
+[Repositório](#)
 
 ### EcoCity
 Jogo de tabuleiro 3D inspirado em Monopoly, desenvolvido em Unity, com mecânicas sistêmicas de dinheiro, bem-estar e poluição.
@@ -66,6 +57,7 @@ Projeto em Unity focado em sistemas de percepção e decisão de NPCs: máquina 
 
 ![Estatísticas do GitHub](https://github-readme-stats-three-chi-18.vercel.app/api?username=Brian-Walter&show_icons=true&theme=default&hide_border=true&v=1)
 ![Linguagens mais usadas](https://github-readme-stats-three-chi-18.vercel.app/api/top-langs/?username=Brian-Walter&layout=compact&hide_border=true&v=1)
+
 </div>
 
 ## Estudando atualmente

@@ -19,7 +19,7 @@ Estudante de Ciência da Computação (FECAP) e desenvolvedor full-stack freelan
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=js,mySQL,react,supabase,prisma,vercel,cs,unity,linux)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=js,mysql,react,supabase,prisma,vercel,cs,unity,linux,git,html,vscode)](https://skillicons.dev)
 
 ## Projetos em destaque
 

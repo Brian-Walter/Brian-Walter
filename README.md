@@ -18,12 +18,8 @@ Estudante de Ciência da Computação (FECAP) e desenvolvedor full-stack freelan
 - Pratico em laboratório próprio (Ubuntu Server + Kali Linux) e resolvo desafios do OverTheWire Bandit como rotina diária
 
 ## Stack
-<p  align="center">
-  <a href="https://skillicons.dev">
     
-  [![Stack](https://skillicons.dev/icons?i=js,mysql,react,supabase,prisma,vercel,cs,unity,linux,git,html,vscode)](https://skillicons.dev)
-  </a>
-</p>
+[![Stack](https://skillicons.dev/icons?i=js,mysql,react,supabase,prisma,vercel,cs,unity,linux,git,html,vscode,css)](https://skillicons.dev)
 
 ## Projetos em destaque
 
